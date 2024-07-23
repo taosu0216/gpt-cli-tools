@@ -26,4 +26,4 @@ go build -o ai.exe main.go
 进行提问的判断是界面有两个空行,也就是三行回车
 
 # v2
-直接在main.go修改baseurl和key,然后go build即可
+直接在main.go修改baseurl和key还有model模型,然后go build即可
