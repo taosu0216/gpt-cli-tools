@@ -24,3 +24,6 @@ go build -o ai.exe main.go
 ![img](https://img.picui.cn/free/2024/07/09/668c9245b4f3a.png)
 然后就可以在电脑的任一位置使用跟ai对话的cli了
 进行提问的判断是界面有两个空行,也就是三行回车
+
+# v2
+直接在main.go修改baseurl和key,然后go build即可
